@@ -1,0 +1,55 @@
+-<!DOCTYPE html>
+<html <head>
+<meta charset="utf-8">
+<title>MICHAELS PERSONAL PAGE</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <td><img src=https://cdn.shopify.com/s/files/1/0083/8369/2866/products/thin_red_flag3_787ea4d9-f883-4369-8107-a6846ec09625_70x70.jpg?v=1560763826=""></td>
+    <td><h1>Michael Rodriguez</h1>
+    <p><em>Student Extraordinaire<em/></p>
+      <p>I am a subconatractor that is learning new skills in coding. I am also learning about cyber security.</p></td>
+  </table>
+
+
+      <hr>
+      <h3>Education</h3>
+      <ul>
+        <li>John Marshall High School[Graduated 98']</li>
+        <li>North West Vista College[Two semesters][1998-1999]</li>
+        <li>Cyber Security training[Alexander Oni,Udemy[2022]]</li>
+        <li>The Complete 2022 Web Development Boot Camp [Dr. Angela Yu, Udemy][2022]</li>
+      </ul>
+      <hr>
+      <h3>Work History</h3>
+           <table>
+          <tr>
+            <td>1998-1999</td>
+            <td>Kmart</td>
+        </tr>
+        <tr>
+          <td>1999-2000</td>
+          <td>Primarily Primates</td>
+        </tr>
+        <tr>
+          <td>2001-2002</td>
+          <td>Lawns of Beauty</td>
+        </tr>
+        <tr>
+          <td>2002-2003</td>
+          <td>Papa Johns Pizza</td>
+        </tr>
+        <tr>
+          <td>2003-2010</td>
+          <td>Steele Construction</td>
+        </tr>
+        </table>
+    <h3><a href="C:\Users\ryang\Desktop\New folder\hobbies">Hobbies</a></h3>
+      <hr>
+
+
+<h3><em><a href="C:\Users\ryang\Desktop\New folder\contact.info">Contact Information</a></em></h3>
+</body>
+
+</html>
